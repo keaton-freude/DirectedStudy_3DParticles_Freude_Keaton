@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParticleSystem>
+  <TextureName>smoke</TextureName>
+  <MaxParticles>2200</MaxParticles>
+  <Duration>6</Duration>
+  <DurationRandomness>0</DurationRandomness>
+  <EmitterVelocitySensitivity>0</EmitterVelocitySensitivity>
+  <MinHorizontalVelocity>0</MinHorizontalVelocity>
+  <MaxHorizontalVelocity>0</MaxHorizontalVelocity>
+  <MinVerticalVelocity>100</MinVerticalVelocity>
+  <MaxVerticalVelocity>100</MaxVerticalVelocity>
+  <Gravity x="100" y="-5" z="0"></Gravity>
+  <EndVelocity>.75</EndVelocity>
+  <MinColor r="255" g="255" b="0"></MinColor>
+  <MaxColor r="255" g="0" b="0"></MaxColor>
+  <MinRotateSpeed>0</MinRotateSpeed>
+  <MaxRotateSpeed>0</MaxRotateSpeed>
+  <MinStartSize>4</MinStartSize>
+  <MaxStartSize>7</MaxStartSize>
+  <MinEndSize>35</MinEndSize>
+  <MaxEndSize>140</MaxEndSize>
+  <BlendState>Additive</BlendState>
+</ParticleSystem>
